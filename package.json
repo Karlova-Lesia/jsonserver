@@ -1,0 +1,22 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karlova-Lesia/jsonserver.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Karlova-Lesia/jsonserver/issues"
+  },
+  "homepage": "https://github.com/Karlova-Lesia/jsonserver#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
